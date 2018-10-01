@@ -1,0 +1,4 @@
+name: drupal_chatbot
+description: Drupal Chat Bot
+type: module
+core: 8.x
